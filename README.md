@@ -29,8 +29,8 @@ A chatbot application built using **React.js** for the frontend and **Express.js
 
 ## Clone the repository
 ```
-git clone <your-repository-link>
-cd <project-folder>
+git clone https://github.com/Vijay2887/Chatbot-react.git
+cd Chatbot-react
 ```
 
 ## Install dependencies
