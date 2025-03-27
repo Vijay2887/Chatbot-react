@@ -14,6 +14,7 @@ A chatbot application built using **React.js** for the frontend and **Express.js
 
 ---
 
+
 ## Tech Stack
 
 ```json
@@ -22,5 +23,50 @@ A chatbot application built using **React.js** for the frontend and **Express.js
   "backend": "Express.js",
   "AI_Model": "Together AI's Free Meta model"
 }
-
 ```
+
+# Installation and Setup
+
+## Clone the repository
+```
+git clone <your-repository-link>
+cd <project-folder>
+```
+
+## Install dependencies
+## For the frontend (React.js)
+```
+cd chatbot-react
+npm install
+```
+# For the backend (Express.js)
+```
+cd chatbot-backend
+npm install
+```
+
+## Set up API Key
+Obtain an API key from Together AI and add it in your backend configuration file.
+
+## Run the application
+## Start the frontend
+```
+npm run dev
+```
+
+## Start the backend
+```
+npm run start
+```
+
+## Customization
+The AI model in use is Meta AI, but it can be changed in the backend to any other supported model.
+
+Modify the UI components in the frontend to enhance the chat experience.
+
+
+
+
+
+
+
